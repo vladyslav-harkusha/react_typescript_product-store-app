@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/react_typescript_product-store-app/static/css/main.073c9b0a.css",
-    "main.js": "/react_typescript_product-store-app/static/js/main.876cabee.js",
-    "static/js/787.57c6dade.chunk.js": "/react_typescript_product-store-app/static/js/787.57c6dade.chunk.js",
-    "static/media/logo.svg": "/react_typescript_product-store-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react_typescript_product-store-app/static/css/main.79ad31f2.css",
+    "main.js": "/react_typescript_product-store-app/static/js/main.f27b7d35.js",
     "index.html": "/react_typescript_product-store-app/index.html",
-    "main.073c9b0a.css.map": "/react_typescript_product-store-app/static/css/main.073c9b0a.css.map",
-    "main.876cabee.js.map": "/react_typescript_product-store-app/static/js/main.876cabee.js.map",
-    "787.57c6dade.chunk.js.map": "/react_typescript_product-store-app/static/js/787.57c6dade.chunk.js.map"
+    "main.79ad31f2.css.map": "/react_typescript_product-store-app/static/css/main.79ad31f2.css.map",
+    "main.f27b7d35.js.map": "/react_typescript_product-store-app/static/js/main.f27b7d35.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.876cabee.js"
+    "static/css/main.79ad31f2.css",
+    "static/js/main.f27b7d35.js"
   ]
 }
