@@ -1,9 +1,13 @@
 import React from "react";
+import { Product } from "./components/Product";
+import { products } from "./data/products";
 
 export function App() {
   return (
     <div className="container mx-auto max-w-2xl pt-5">
-      Hello Vladys
+      <Product product={products[0]} />
+      <Product product={products[1]} />
+      <Product product={products[2]} />
     </div>
   );
 
