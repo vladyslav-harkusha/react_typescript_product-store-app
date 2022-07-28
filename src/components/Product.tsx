@@ -28,7 +28,7 @@ export const Product: FC<ProductProps> = ({ product }) => {
       {details &&
         <div>
           <p className="border border-emerald-200 px-2 py-1 mt-3">{product.description}</p>
-          <p>Rate: <span style={{fontWeight: 'bold'}}>{product.rating.rate}</span></p>
+          <p>Rate: <span style={{fontWeight: 'bold'}}>{product?.rating?.rate}</span></p>
         </div>
       }
     </div>
