@@ -8,8 +8,8 @@ export function App() {
     <>
       <Navigation />
       <Routes>
-        <Route path="/" element={ <ProductPage /> } />
-        <Route path="/about" element={ <AboutPage /> } />
+        <Route path="/react_typescript_product-store-app/" element={ <ProductPage /> } />
+        <Route path="/react_typescript_product-store-app/about" element={ <AboutPage /> } />
       </Routes>
     </>
   );

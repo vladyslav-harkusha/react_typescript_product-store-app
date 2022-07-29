@@ -7,8 +7,8 @@ export const Navigation: FC = () => {
       <span className='font-bold'>React-Typescript 2022</span>
 
       <span>
-        <Link to="/" className='mr-4'>Products</Link>
-        <Link to="/about">About</Link>
+        <Link to="/react_typescript_product-store-app/" className='mr-4'>Products</Link>
+        <Link to="/react_typescript_product-store-app/about">About</Link>
       </span>
     </nav>
   )
